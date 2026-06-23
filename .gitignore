@@ -19,3 +19,5 @@ Build
 .vscode
 *.pyc
 __pycache__
+Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset
+Intermediate/CachedAssetRegistry_0.bin
